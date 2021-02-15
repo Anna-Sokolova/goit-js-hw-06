@@ -113,6 +113,7 @@ const getSortedUniqueSkills = (array) => array
 console.log(getSortedUniqueSkills(users));
 
 console.log(getSortedUniqueSkills(users));
+
 /* [ 'adipisicing', 'amet',
  'anim', 'commodo',
  'culpa', 'elit',
